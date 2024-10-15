@@ -2,15 +2,15 @@
 
 ## Objetivo de Aprendizaje
 
-El objetivo de este proyecto es proporcionar una introducción práctica al machine learning supervisado, explorando algunos de los algoritmos clásicos más utilizados. A través de ejemplos y ejercicios, los participantes aprenderán a implementar y evaluar modelos de machine learning supervisado.
+El objetivo de este proyecto es proporcionarte una introducción práctica al machine learning supervisado, explorando algunos de los algoritmos clásicos más utilizados. A través de ejemplos y ejercicios, practicarás la implementación y evaluación de modelos de machine learning supervisado.
 
-## Contexto del Universo de Star Trek
+## Tu formación como cadete en la Academia de la Flota Estelar 🚀✨
 
-Para hacer este proyecto más atractivo y pedagógico, he utilizado el universo de Star Trek como contexto. Star Trek, una de las franquicias de ciencia ficción más icónicas, ofrece un rico escenario lleno de datos y situaciones que son ideales para aplicar técnicas de machine learning supervisado. A través de ejemplos basados en personajes, naves espaciales y misiones de Star Trek, los participantes podrán aprender conceptos complejos de una manera divertida y relevante.
+Para hacer este proyecto más atractivo y pedagógico, he utilizado el universo de Star Trek como contexto; una de las franquicias de ciencia ficción más icónicas, ofrece un rico escenario lleno de datos y situaciones que son ideales para aplicar técnicas de machine learning supervisado. A través de ejemplos basados en personajes, naves espaciales y misiones de Star Trek, puedes aprender conceptos complejos de una manera divertida y relevante.
 
 ## Contexto del Bootcamp
 
-Este proyecto forma parte del bootcamp en Inteligencia Artificial impartido por Factoría F5. Factoría F5 es una organización dedicada a la formación en tecnologías emergentes, con un enfoque en la inclusión y la diversidad. El bootcamp en IA está diseñado para proporcionar a los estudiantes las habilidades necesarias para desarrollar soluciones de inteligencia artificial en el mundo real.
+Este proyecto forma parte de la tercera promoción del bootcamp en Inteligencia Artificial impartido por Factoría F5, una organización dedicada a la formación en tecnologías emergentes, con un enfoque en la inclusión y la diversidad. El bootcamp en IA está diseñado para proporcionar a los estudiantes las habilidades necesarias para desarrollar soluciones de inteligencia artificial en el mundo real.
 
 ## Instrucciones para Crear un Entorno Virtual
 
