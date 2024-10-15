@@ -6,6 +6,8 @@ El objetivo de este proyecto es proporcionarte una introducción práctica al ma
 
 ## Tu formación como cadete en la Academia de la Flota Estelar 🚀✨
 
+![71RtguTEIvL _AC_UF894,1000_QL80_](https://github.com/user-attachments/assets/fa1fca32-7977-4e68-8557-2fef9116954b)
+
 Para hacer este proyecto más atractivo y pedagógico, he utilizado el universo de Star Trek como contexto; una de las franquicias de ciencia ficción más icónicas, ofrece un rico escenario lleno de datos y situaciones que son ideales para aplicar técnicas de machine learning supervisado. A través de ejemplos basados en personajes, naves espaciales y misiones de Star Trek, puedes aprender conceptos complejos de una manera divertida y relevante.
 
 ## Contexto del Bootcamp
@@ -41,8 +43,8 @@ pip install -r requirements.txt
 
 El proceso de instalación de librerías con `pip` es consistente en los sistemas operativos Linux y macOS.
 
-## Agradecimientos
+## Agradecimientos 🖖🏻
 
 Gracias por visitar este repositorio. Apreciaré cualquier contribución que desees hacer a través de forks en GitHub. ¡Tu participación es valiosa para mí!
 
-¡Larga vida y prosperidad! 🖖 Que tu aprendizaje en el mundo del machine learning sea tan emocionante y fructífero como las misiones de la Flota Estelar.
+¡Larga vida y prosperidad! Que tu aprendizaje en el mundo del machine learning sea tan emocionante y fructífero como las misiones de la Flota Estelar.
