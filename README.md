@@ -43,6 +43,36 @@ pip install -r requirements.txt
 
 El proceso de instalación de librerías con `pip` es consistente en los sistemas operativos Linux y macOS.
 
+Para visualizar el árbol de decisiones, asegúrate de tener instaladas las bibliotecas **graphviz** (un programa externo necesario para renderizar los gráficos generados) y **pydotplus**. 
+Puedes instalarlas utilizando los siguientes comandos:
+```bash
+pip install graphviz
+pip install pydotplus
+```
+
+Además, asegúrate de tener Graphviz instalado en tu sistema. Puedes descargarlo e instalarlo desde [Graphviz Download](https://graphviz.gitlab.io/download/).
+
+En macOS introduce el siguiente código para instalarlo vía HomeBrew:
+```bash
+brew install graphviz
+```
+Una vez que tengas todo instalado, ejecuta el código para visualizar el árbol de decisiones.
+
+
+## Descripción de los Archivos del Proyecto
+
+### complex_starship_dataset_generator.py
+
+Contiene el código necesario para generar un conjunto de datos complejo sobre naves espaciales. El objetivo de este script es simular datos detallados sobre diferentes tipos de naves y sus características técnicas.
+
+### alien_plants_dataset_generator.py
+
+Se encarga de generar un conjunto de datos sobre plantas alienígenas. El script simula datos sobre diversas especies de plantas encontradas en un mismo planeta, incluyendo características como la altura, el color, y las propiedades medicinales.
+
+### galactic_battles_dataset_generator.py
+
+Genera un conjunto de datos sobre batallas galácticas. El objetivo de este script es crear datos que describan diferentes enfrentamientos espaciales, incluyendo información sobre las flotas involucradas y los resultados de las batallas.
+
 ## Agradecimientos 🖖🏻
 
 Gracias por visitar este repositorio. Apreciaré cualquier contribución que desees hacer a través de forks en GitHub. ¡Tu participación es valiosa para mí!
